@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Personal data
+Data/memory.json
+Data/memory_backup*.json
+Data/conversation_history.json
+Data/conversation_history.tmp
